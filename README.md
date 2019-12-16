@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi everyone !
+
+I'm Kris and i learn to use git and github for the first time .
+
+
